@@ -8,6 +8,6 @@
 
 🔗 **我的链接**:
 - 🏠 [个人主页](https://js0205.github.io/) - 项目展示与技术文章
-- 📖 [学习笔记](https://js0205.github.io/my-notes/) - 完整的技术学习记录
+- 📖 [学习笔记](https://js0205.github.io/my-notes/performance/performance) - 完整的技术学习记录
 
 💡 **分享有价值的技术内容，记录成长路径**
