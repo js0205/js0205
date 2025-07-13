@@ -6,7 +6,7 @@
 
 📚 **学习与实践**  
 - 🏠 [个人主页](https://js0205.github.io/) - 正在整理的学习项目与笔记  
-- 📖 [技术笔记](https://js0205.github.io/my-notes/performance) - 记录前端知识的学习轨迹  
+- 📖 [技术笔记](https://js0205.github.io/my-notes/performance/performance) - 记录前端知识的学习轨迹  
 - 🤖 [Chatbot 实验项目](https://chat-sse-fe.vercel.app/chat) - SSE 技术的练手实践  
 
 🌱 **共同成长**  
