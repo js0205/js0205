@@ -7,7 +7,12 @@
 📚 **学习与实践**  
 - 🏠 [个人主页](https://js0205.github.io/) - 正在整理的学习项目与笔记  
 - 📖 [技术笔记](https://js0205.github.io/my-notes/performance/performance) - 记录前端知识的学习轨迹  
-- 🤖 [Chatbot 实验项目](https://chat-sse-fe.vercel.app/chat) - SSE 技术的练手实践  
+- 🤖 [Chatbot 实验项目](https://chat-sse-fe.vercel.app/chat) - SSE 技术的练手实践
+- 📦 **npm开源包**  
+- **@js0205/track-analytics**：高性能埋点SDK，支持页面/事件追踪与LCP、FCP等核心性能指标采集  
+  → [npm链接](https://www.npmjs.com/package/@js0205/track-analytics) | [设计思路](https://js0205.github.io/performance-tracking)  
+- **webpack-routes-plugin**：基于AST解析的Webpack路由自动化插件，减少70%手写配置量  
+  → [npm链接](https://www.npmjs.com/package/webpack-routes-plugin) | [Demo项目](https://github.com/js0205/webpack-routes-demo)
 
 🌱 **共同成长**  
 初入技术深海，渴望交流与指导  
