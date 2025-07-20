@@ -8,7 +8,7 @@
 - 📖 [技术笔记](https://js0205.github.io/my-notes/performance/performance) - 记录前端知识的学习轨迹  
 - 🤖 [Chatbot 实验项目](https://chat-sse-fe.vercel.app/chat) - SSE 技术的练手实践
 - 🔥 [前端最佳实践集合](https://frontend-practice-repo-nxercz58u-js0205s-projects.vercel.app/) - 正在整理的学习项目
-- 🏠 [个人主页](https://js0205.github.io/) - 个人主页  
+- 🏠 [个人主页](https://js0205.github.io/) - 整理的前端概念 
 - 📦 **npm开源包**  
 - **@js0205/track-analytics**：高性能埋点SDK，支持页面/事件追踪与LCP、FCP等核心性能指标采集  
   → [npm链接](https://www.npmjs.com/package/@js0205/track-analytics)   
