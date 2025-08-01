@@ -13,7 +13,11 @@
 - **@js0205/track-analytics**：高性能埋点SDK，支持页面/事件追踪与LCP、FCP等核心性能指标采集  
   → [npm链接](https://www.npmjs.com/package/@js0205/track-analytics)   
 - **webpack-routes-plugin**：基于正则表达式文本解析的Webpack路由自动化插件，减少手写配置量  
-  → [npm链接](https://www.npmjs.com/package/webpack-routes-plugin) 
+  → [npm链接](https://www.npmjs.com/package/webpack-routes-plugin)
+  
+📊 **代码足迹**
+![js0205's GitHub stats](https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js0205&layout=compact)
 
 🌱 **共同成长**  
 初入技术深海，渴望交流与指导  
