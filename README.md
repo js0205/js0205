@@ -37,7 +37,7 @@
 ## 📊 代码足迹  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js0205&layout=compact&theme=radical&hide=html,css" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=radical&count_private=true&line_height=24" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=radical&count_private=true&line_height=20" alt="GitHub Stats">
 </div>
 
 
