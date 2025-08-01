@@ -13,7 +13,7 @@
 ### 🤖 [Chatbot实验项目](https://chat-sse-fe.vercel.app/chat)  
 • 基于SSE实现实时对话交互  
 
-### 👁️ [基于多模态AI的无障助盲系统] (开发中)  
+### 👁️ 基于多模态AI的无障助盲系统 (开发中)  
 • 整合计算机视觉与语音交互技术，为视障人士提供智能环境感知方案  
 
 ### 🔥 [前端最佳实践集合](https://frontend-practice-repo-nxercz58u-js0205s-projects.vercel.app/)  
@@ -39,15 +39,23 @@
 ---
 
 ## 📊 代码足迹  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js0205&layout=compact&theme=radical&hide=html,css)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js0205&layout=compact&theme=radical&hide=html,css" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=radical&count_private=true&line_height=24" alt="GitHub Stats">
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=radical&count_private=true&line_height=24)  
-
-[![Visits Badge](https://badges.pufler.dev/visits/js0205/js0205)](https://github.com/js0205)  
-[![Updated Badge](https://badges.pufler.dev/updated/js0205/js0205)](https://github.com/js0205)  
+<div align="center">
+  <img src="https://badges.pufler.dev/visits/js0205/js0205" alt="Profile Visits">
+  <img src="https://badges.pufler.dev/updated/js0205/js0205" alt="Last Updated">
+</div>
 
 ---
 
 ## 🌱 成长之路  
+技术海洋的探索者，始终相信：  
+> "The best way to learn is to teach" - Feynman  
+
 📮 欢迎技术交流：**icy_gao@foxmail.com**  
+
+✨ **保持热爱，奔赴星海**  
 [![GitHub Stars](https://img.shields.io/github/stars/js0205?label=Stars&style=social)](https://github.com/js0205)
