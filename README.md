@@ -17,10 +17,9 @@
   
 📊 **代码足迹**
 
-![js0205's GitHub stats](https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=light)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js0205&layout=compact)
+
+![js0205's GitHub stats](https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=light)
 
 🌱 **共同成长**  
 初入技术深海，渴望交流与指导  
