@@ -42,11 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=js0205&show_icons=true&theme=radical&count_private=true&line_height=24" alt="GitHub Stats">
 </div>
 
-<div align="center">
-  <img src="https://badges.pufler.dev/visits/js0205/js0205" alt="Profile Visits">
-  <img src="https://badges.pufler.dev/updated/js0205/js0205" alt="Last Updated">
-</div>
-
 ---
 
 📮 欢迎技术交流：**icy_gao@foxmail.com**  
