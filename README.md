@@ -4,8 +4,6 @@
 一名专注前端工程化与性能优化的开发者，热爱通过技术博客分享实践经验  
 期待与您交流前沿技术趋势与实战心得  
 
----
-
 ## 🚀 技术实践  
 ### 📝 [技术笔记](https://js0205.github.io/my-notes/performance/performance)  
 • 系统整理前端性能优化方法论  
@@ -51,11 +49,6 @@
 
 ---
 
-## 🌱 成长之路  
-技术海洋的探索者，始终相信：  
-> "The best way to learn is to teach" - Feynman  
-
 📮 欢迎技术交流：**icy_gao@foxmail.com**  
 
-✨ **保持热爱，奔赴星海**  
-[![GitHub Stars](https://img.shields.io/github/stars/js0205?label=Stars&style=social)](https://github.com/js0205)
+✨ **保持热爱，奔赴星海** [![GitHub Stars](https://img.shields.io/github/stars/js0205?label=Stars&style=social)](https://github.com/js0205)
