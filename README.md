@@ -11,9 +11,6 @@
 ### 🤖 [Chatbot实验项目](https://chat-sse-fe.vercel.app/chat)  
 • 基于SSE实现实时对话交互  
 
-### 👁️ 基于多模态AI的无障助盲系统 (开发中)  
-• 整合计算机视觉与语音交互技术，为视障人士提供智能环境感知方案  
-
 ### 🔥 [前端最佳实践集合](https://frontend-practice-repo-nxercz58u-js0205s-projects.vercel.app/)  
 • 收录工程化配置模板  
 • 包含Webpack优化实战案例  
