@@ -23,7 +23,7 @@
 
 ---
 
-### 💬 [Chatbot 实验项目](https://chat-sse-fe.vercel.app/chat)
+### 💬 [Chatbot 实验项目](https://chat-sse-fe.vercel.app/zh/dashboard)
 
 **基于 SSE 的实时对话系统**
 
